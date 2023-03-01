@@ -33,7 +33,7 @@ function App() {
       <nav>
         <ul>
           <li>
-            <Link to="/">Главная</Link>
+            <Link to="/">Главнаяz</Link>
           </li>
         </ul>
       </nav>
